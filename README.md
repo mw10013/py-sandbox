@@ -7,5 +7,6 @@
 - pip3 install openai python-dotenv jupyter
 - pip3 install upgrade langchain
 - pip3 install tiktoken
+- pip3 install pandas
 - https://code.visualstudio.com/docs/datascience/jupyter-notebooks
 - DeepLearning: File | Open | Select | Edit | File | Download
