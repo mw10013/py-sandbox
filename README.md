@@ -9,5 +9,8 @@
 - pip3 install tiktoken
 - pip3 install pandas
 - pip3 install docarray
+- pip3 install -U wikipedia
+- pip3 install DateTime
+- pip3 install -U ipywidgets
 - https://code.visualstudio.com/docs/datascience/jupyter-notebooks
 - DeepLearning: File | Open | Select | Edit | File | Download
